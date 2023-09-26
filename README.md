@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Tolga from Turkiye. Currently, I'm a student at 42 Istanbul. I have a bachelor's degree in English language and literature. I decided to change my career to tech and follow my dreams.<br><br>- 📚 I'm currently following the "Java ile Backend Web Development Patikası" learning path at Patika.dev.</p>
+<p align="left">I'm Tolga from Turkiye. Currently, I'm a student at 42 Istanbul. I have a bachelor's degree in English language and literature. I decided to change my career to tech and follow my dreams.<br><br>- 📚 I'm currently following the "Java ile Backend Web Development Patikası" learning path at Patika.dev. Also at istanbulKodluyor program.</p>
 https://leetcode.com/happyknight07/
 
 ###
